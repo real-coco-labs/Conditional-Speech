@@ -1,3 +1,11 @@
 [ 3/12/24 ]
 - Update: Lowered panic-swear chance to 5% from 15%.
 [ ------ ]
+
+[ 5/18/24 ]
+- Corrected boredom adjustment when speaking.
+[ ------ ]
+
+[ 5/22/24 ]
+- Hot fix: Boredom issue with reloading/ammo-count.
+[ ------ ]
